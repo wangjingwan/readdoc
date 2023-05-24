@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'spiderST'
-copyright = '2023, Li Shiying'
-author = 'Li Shiying'
+project = 'SpexMod'
+copyright = '2023, WANG Jingwan'
+author = 'WANG Jingwan'
 release = 'v0.0.1'
 
 # -- General configuration ---------------------------------------------------
